@@ -1,0 +1,9 @@
+Manufacturer : USA CTI 
+Fabrik:		   Frankfurt
+Produkt: A
+Parallel Distributor: Max Pharma GmbH
+
+1. Can we upload A to EMVO?
+
+
+
